@@ -1,13 +1,15 @@
-/* .reg{
-    background-color: aqua;
-    display: flex;
-    justify-content: center;
-} */
-/* .btn{
-    background-color: blue;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+.reg{
+height: 100vh;
+ width: 100%;
+ padding-top: 200px;
+ background-image: url('film.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+color: azure;
 
+} 
+/* .box{
+    height: 200vh;
+    width: 200vh;
+    background-color: aquamarine;
 } */
